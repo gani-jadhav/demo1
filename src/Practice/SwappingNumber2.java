@@ -9,7 +9,7 @@ public class SwappingNumber2 {
                 count++;
             }
         }
-        System.out.println("count of shyam is = " +count);
+        System.out.println( +count);
     }
 }
 
