@@ -19,7 +19,8 @@ public class Array1 {
         a[5]=600;
         System.out.println(a[3]);*/
         int a[]={1,2,3,4,5};
-     
+        System.out.println(a[4]);
+
     }
 
 }
